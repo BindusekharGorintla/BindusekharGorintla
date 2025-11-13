@@ -23,6 +23,3 @@ I'm a **Data Engineer**, **AI/ML Engineer**, **Data Scientist**, and **PySpark D
 ## 🌱 I'm Currently Learning:
 - Core ideas behind **Agentic AI**
 - Advanced **Data Science** techniques and applications
-
-## 📈 GitHub Stats:
-![Bindusekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
