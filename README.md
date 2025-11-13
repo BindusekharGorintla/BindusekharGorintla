@@ -1,10 +1,28 @@
-# Hey there, Bindusekhar Gorintla here!! 👋
+# Hey there! I'm Bindusekhar Gorintla 👋
 
-💻 I do have multiple names like **Data Engineer**, **AI/ML Engineer**, **Data Scientist**, and **PySpark Developer**.  
-🧑🏼‍💻 **Data Science** & **Artificial Intelligence** are my core subject areas, and I face them every single day in my career.  
-🎓 Got a **Masters** from the **United Kingdom** in Managing Information Technology and **Bachelors** in Computer Science.  
-🔕 Yes, I’ve had many fun moments, errors, successes, failures with different types of data, problems, solutions, Proof of Concepts, and developments.  
-🔭 Currently, I'm learning **Agentic AI** core ideas and building **smart contracts** with **Solidity**.  
-🦾 I work on collaborative projects and self-learning stuff.  
-📫 Mail me: [gorintla.bindusekhar@gmail.com](mailto:gorintla.bindusekhar@gmail.com)
+I'm a **Data Engineer**, **AI/ML Engineer**, **Data Scientist**, and **PySpark Developer** with a passion for **Data Science** and **Artificial Intelligence**. I solve complex problems with data every day and strive to create impactful solutions.
 
+🎓 I hold a **Master's in Managing Information Technology** from the **United Kingdom** and a **Bachelor's in Computer Science**.
+
+🔭 Currently, I'm diving deep into **Agentic AI** and building **smart contracts** with **Solidity**.
+
+🛠️ I enjoy working on both **collaborative projects** and **self-learning initiatives**, constantly seeking new challenges to improve my skills.
+
+📫 Feel free to reach out to me at: [gorintla.bindusekhar@gmail.com](mailto:gorintla.bindusekhar@gmail.com)
+
+---
+
+## 🔧 Skills & Technologies:
+- **Programming Languages**: Python, Java, SQL, Scala, HTML, Shell
+- - **Cloud**: Databricks, Git,Snowflake
+- **Tools & Frameworks**: PySpark, TensorFlow, Flask, Azure, DBT, Apache Spark
+- **Areas of Expertise**: Data Engineering, Machine Learning, AI
+
+---
+
+## 🌱 I'm Currently Learning:
+- Core ideas behind **Agentic AI**
+- Advanced **Data Science** techniques and applications
+
+## 📈 GitHub Stats:
+![Bindusekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
