@@ -8,7 +8,7 @@ I'm a **Data Engineer**, **AI/ML Engineer**, **Data Scientist**, and **PySpark D
 
 🛠️ I enjoy working on both **collaborative projects** and **self-learning initiatives**, constantly seeking new challenges to improve my skills.
 
-📫 Feel free to reach out to me at: [gorintla.bindusekhar@gmail.com](mailto:gorintla.bindusekhar@gmail.com)|[Linkedin](www.linkedin.com/in/bindusekhar-gorintla)
+📫 Feel free to reach out to me at: [gorintla.bindusekhar@gmail.com](mailto:gorintla.bindusekhar@gmail.com)
 
 ---
 
