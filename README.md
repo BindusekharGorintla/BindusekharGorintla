@@ -4,7 +4,7 @@ I'm a **Data Engineer**, **AI/ML Engineer**, **Data Scientist**, and **PySpark D
 
 🎓 I hold a **Master's in Managing Information Technology** from the **United Kingdom** and a **Bachelor's in Computer Science**.
 
-🔭 Currently, I'm diving deep into **Agentic AI** and building **smart contracts** with **Solidity**.
+🔭 Currently, I'm diving deep into **Agentic AI** and building **AI Agents** with **Databricks**.
 
 🛠️ I enjoy working on both **collaborative projects** and **self-learning initiatives**, constantly seeking new challenges to improve my skills.
 
