@@ -1,6 +1,6 @@
 # Hey there! I'm Bindusekhar Gorintla 👋
 
-I'm a **Data Engineer**, **AI/ML Engineer**, **Data Scientist**, and **PySpark Developer** with a passion for **Data Science** and **Artificial Intelligence**. I solve complex problems with data every day and strive to create impactful solutions.
+I'm a **Data Engineer**, **AI/ML Engineer**, **Data Scientist**, and **PySpark Developer** with a passion for **Data Science** and **Artificial Intelligence**.
 
 🎓 I hold a **Master's in Managing Information Technology** from the **United Kingdom** and a **Bachelor's in Computer Science**.
 
@@ -8,7 +8,7 @@ I'm a **Data Engineer**, **AI/ML Engineer**, **Data Scientist**, and **PySpark D
 
 🛠️ I enjoy working on both **collaborative projects** and **self-learning initiatives**, constantly seeking new challenges to improve my skills.
 
-📫 Feel free to reach out to me at: [gorintla.bindusekhar@gmail.com](mailto:gorintla.bindusekhar@gmail.com)
+📫 Feel free to reach out to me at: [gorintla.bindusekhar@gmail.com](mailto:gorintla.bindusekhar@gmail.com)|[Linkedin](www.linkedin.com/in/bindusekhar-gorintla)
 
 ---
 
