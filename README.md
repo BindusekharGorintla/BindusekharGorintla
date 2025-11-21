@@ -13,9 +13,9 @@ I'm a **Data Engineer**, **AI/ML Engineer**, **Data Scientist**, and **PySpark D
 ---
 
 ## 🔧 Skills & Technologies:
-- **Programming Languages**: Python, Java, SQL, Scala, HTML, Shell
-- **Cloud**: Databricks, Git,Snowflake
-- **Tools & Frameworks**: PySpark, TensorFlow, Flask, Azure, DBT, Apache Spark
+- **Programming Languages**: Python, SQL, T-SQL, HTML, Java, Shell
+- **Cloud**: Databricks, Snowflake, Docker, Apache Airflow, GitHub
+- **Tools & Frameworks**: Apache Spark, Data Build Tool (DBT), Pyspark, Hive, Impala, Spark Scala, Spark SQL,SSIS, SSRS
 - **Areas of Expertise**: Data Engineering, Machine Learning, AI
 
 ---
